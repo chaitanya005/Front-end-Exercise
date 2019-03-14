@@ -1,0 +1,17 @@
+a:link , a:visited{
+    background-color: royalblue;
+    padding: 20px;
+    text-decoration: none;
+    
+    color: white;
+    display:inline-block;
+}
+
+a:hover{
+    background-color: red;
+    
+}
+
+a:active{
+    background-color: green;
+}

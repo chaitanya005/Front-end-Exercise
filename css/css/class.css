@@ -1,0 +1,21 @@
+h1{
+    font-size: 50px;
+}
+
+div{
+    background-color: whitesmoke;
+    height: 100px;
+}
+
+.black{
+    background-color: black;
+}
+
+.blue{
+    background-color: green;
+}
+
+#orange{
+    
+    background-color: orange;
+}
